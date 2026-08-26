@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC774\uC2B9\uC6D0\\Documents\\GitHub\\Practice_Cpp\\C\u002B\u002B Esperesso\\Chapter6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E7FD7C-A570-4043-93EC-11B95A3490BE}|Chapter6\\Chapter6.vcxproj|C:\\Users\\\uC774\uC2B9\uC6D0\\Documents\\GitHub\\Practice_Cpp\\C\u002B\u002B Esperesso\\Chapter6\\Chapter6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86E7FD7C-A570-4043-93EC-11B95A3490BE}|Chapter6\\Chapter6.vcxproj|solutionrelative:Chapter6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC2B9\uC6D0\\Documents\\GitHub\\Practice_Cpp\\C\u002B\u002B Esperesso\\Chapter6\\Chapter6\\main.cpp",
+              "RelativeDocumentMoniker": "Chapter6\\main.cpp",
+              "ToolTip": "C:\\Users\\\uC774\uC2B9\uC6D0\\Documents\\GitHub\\Practice_Cpp\\C\u002B\u002B Esperesso\\Chapter6\\Chapter6\\main.cpp",
+              "RelativeToolTip": "Chapter6\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-26T04:23:47.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
